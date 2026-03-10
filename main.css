@@ -17,7 +17,7 @@ body {
 h1 {
     text-align: center;
     color: #000000;
-    font-size: 48px;        /* Bigger heading */
+    font-size: 40px;        /* Bigger heading */
     font-weight: 800;       /* Extra bold */
     letter-spacing: 2px;    /* Stylish spacing */
     text-transform: uppercase; /* Makes it look strong */
